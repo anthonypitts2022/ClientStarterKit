@@ -1,0 +1,15 @@
+  :root {
+    --lightblue: #ADD8E6;
+  }
+
+.main-container{
+  background: lightblue;
+}
+
+.card{
+  background-color: lightblue;
+}
+
+body{
+  background-color: lightblue;
+}
